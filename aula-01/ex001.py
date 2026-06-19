@@ -2,7 +2,7 @@ print("Olá, mundo!")
 print("Python é incrível")
 
 print(7 + 4) # resultado: 11
-print("7" + "4") # resultado: 74
+print("7" + "4") # resultado: 74 
 
 nome = "Ana Lima"
 idade = 28
