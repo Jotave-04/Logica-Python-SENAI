@@ -1,0 +1,10 @@
+# POTÊNCIA COM **
+
+print(4 ** 3)
+print(356 ** 522) # PYTHON SUPORTA INTEIROS GIGANTES (LIMITE = MEMÓRIA RAM)
+
+# RAÍZES COMO POTÊNCIAS FRACIONÁRIAS
+
+print(81 ** (1/2)) # √81 = 9
+print(127 ** (1/3)) # ∛127 ≈ 5.03
+
